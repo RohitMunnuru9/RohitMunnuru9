@@ -29,7 +29,6 @@ Hey, I'm **Rohit Munnuru**! I enjoy turning ideas into useful software and learn
 
 - 🛠️ My projects span web applications, Python APIs, and mobile experiences.
 - 🌱 I'm interested in **open-source contributions** and learning from developer communities.
-- 🎯 My goal is to prepare for **Google Summer of Code 2027** through consistent learning and meaningful contributions.
 - 🤝 I'd love to collaborate on useful projects, bug fixes, and better documentation.
 
 <div align="center">
