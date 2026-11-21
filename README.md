@@ -94,7 +94,7 @@ Hey, I'm **Rohit Munnuru**! I enjoy turning ideas into useful software and learn
 | **[SafeVoice / ASAFE](https://github.com/RohitMunnuru9/ASAFE)** | A safety app with voice triggers, SOS alerts, GPS tracking, and a web monitoring dashboard. | React Native · Firebase |
 
 <p align="center">
-  <a href="https://rohitmunnuru9.github.io/ASAFE/">🌐 SafeVoice Web Dashboard</a>
+  <a href="https://rohitmunnuru9.github.io/ASAFE/">SafeVoice Web Dashboard</a>
   &nbsp; · &nbsp;
   <a href="https://github.com/RohitMunnuru9?tab=repositories">📂 All Repositories</a>
 </p>
