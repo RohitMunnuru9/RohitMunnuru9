@@ -31,10 +31,6 @@ Hey, I'm **Rohit Munnuru**! I enjoy turning ideas into useful software and learn
 - 🌱 I'm interested in **open-source contributions** and learning from developer communities.
 - 🤝 I'd love to collaborate on useful projects, bug fixes, and better documentation.
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&amp;size=27&amp;duration=4000&amp;pause=2500&amp;color=E6C07B&amp;background=0D1117&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=100&amp;lines=%E2%80%9CDream+boldly.+Build+patiently.+Share+freely.%E2%80%9D" width="100%" alt="Dream boldly. Build patiently. Share freely." />
-</div>
-
 <br />
 
 <a id="tech-stack"></a>
