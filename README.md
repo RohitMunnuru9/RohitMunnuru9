@@ -1,135 +1,168 @@
-<div align="center">
-
-  <a href="#about-me"><img src="https://img.shields.io/badge/About_Me-161B22?style=for-the-badge" alt="About me" /></a>
-  <a href="#tech-stack"><img src="https://img.shields.io/badge/Tech_Stack-161B22?style=for-the-badge" alt="Tech stack" /></a>
-  <a href="#featured-projects"><img src="https://img.shields.io/badge/Projects-161B22?style=for-the-badge" alt="Projects" /></a>
-  <a href="#open-source--gsoc-2027"><img src="https://img.shields.io/badge/Open_Source-161B22?style=for-the-badge" alt="Open source" /></a>
-
-  <br /><br />
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f9b0f,100:00bfff&amp;height=240&amp;section=header&amp;text=Rohit%20Munnuru&amp;fontSize=62&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Build.%20Learn.%20Contribute.&amp;descAlignY=57&amp;descSize=22" width="100%" alt="Rohit Munnuru — Build. Learn. Contribute." />
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=23&amp;duration=3000&amp;pause=1000&amp;color=23D18B&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Building+useful+software;Exploring+open-source+contributions;Preparing+for+GSoC+2027;Learning+by+building+and+sharing" width="100%" alt="Building useful software. Exploring open-source contributions. Preparing for GSoC 2027." />
-
-  <br />
-
-  <a href="https://github.com/RohitMunnuru9?tab=repositories"><img src="https://img.shields.io/badge/Explore_My_Repos-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my repositories" /></a>
-  <img src="https://img.shields.io/badge/Focus-Open_Source-23D18B?style=for-the-badge" alt="Focus: open source" />
-  <img src="https://img.shields.io/badge/Goal-GSoC_2027-00BFFF?style=for-the-badge" alt="Goal: GSoC 2027" />
-
-</div>
-
-<br />
-
-<a id="about-me"></a>
-
-## ⚡ About Me
-
-Hey, I'm **Rohit Munnuru**! I enjoy turning ideas into useful software and learning how things work along the way.
-
-- 🛠️ My projects span web applications, Python APIs, and mobile experiences.
-- 🌱 I'm interested in **open-source contributions** and learning from developer communities.
-- 🤝 I'd love to collaborate on useful projects, bug fixes, and better documentation.
-
-<br />
-
-<a id="tech-stack"></a>
-
-## 🛠️ Tech Stack
-
-<p align="center">Languages, frameworks, and tools I work with</p>
-
-<div align="center">
-
-  <p><b>Languages</b></p>
-
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
-
-  <p><b>MERN Stack</b></p>
-
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&amp;logo=express&amp;logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
-
-  <p><b>Web, Mobile &amp; APIs</b></p>
-
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" />
-
-  <br />
-
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&amp;logo=firebase&amp;logoColor=white" alt="Firebase" />
-
-  <p><b>DevOps &amp; Tools</b></p>
-
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&amp;logo=jenkins&amp;logoColor=white" alt="Jenkins" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
-
-</div>
-
-<br />
-
-<a id="featured-projects"></a>
-
-## 🚀 Featured Projects
-
-| Project | What it does | Stack |
-| :--- | :--- | :--- |
-| **[Stellar](https://github.com/RohitMunnuru9/stellarextension)** | A visual browser agent for Chrome with on-device privacy controls, sensitive-data redaction, and local action validation for AI-assisted browsing. | JavaScript · Chrome Extensions (Manifest V3) · Gemini · Transformers.js · WebGPU |
-| **[Axiomora](https://github.com/RohitMunnuru9/Axiomora)** | Helps reviewers find applicable Indian Standards for public procurement, with traceable evidence and human review. | Next.js · TypeScript · FastAPI · PostgreSQL |
-| **[DOGFOOD 2026](https://github.com/RohitMunnuru9/DOGFOODHACK)** | A self-hosted hackathon portal for team formation, submissions, judging, and publishing results. | Next.js · Python · SQLite · Docker |
-| **[SafeVoice / ASAFE](https://github.com/RohitMunnuru9/ASAFE)** | A safety app with voice triggers, SOS alerts, GPS tracking, and a web monitoring dashboard. | React Native · Firebase |
+<a id="top"></a>
 
 <p align="center">
-  <a href="https://rohitmunnuru9.github.io/ASAFE/">SafeVoice Web Dashboard</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/RohitMunnuru9?tab=repositories">📂 All Repositories</a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f9b0f,50:00a8a8,100:00bfff&height=260&section=header&text=Rohit%20Munnuru&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20developer%20%C2%B7%20Open-source%20contributor%20%40%20Oppia&descAlignY=60&descSize=20" width="100%" alt="Rohit Munnuru: full-stack developer and open-source contributor at Oppia"/>
 </p>
-
-<a id="open-source--gsoc-2027"></a>
-
-## 🌍 Open Source &amp; GSoC 2027
-
-I'm working toward becoming a consistent open-source contributor, with **GSoC 2027** as a goal. My focus is on understanding projects, communicating clearly, and making changes that help their communities.
-
-| Focus | What I'm aiming to do |
-| :--- | :--- |
-| **Explore** | Find communities and projects that match my interests. |
-| **Understand** | Set up projects locally, read the code, and learn contribution guidelines. |
-| **Contribute** | Start with documentation, reproducible bug reports, tests, and focused fixes. |
-| **Grow** | Learn from reviews, take on larger issues, and develop a thoughtful proposal. |
-
-<p align="center"><i>Have an open-source project that welcomes contributors? I'd love to explore it.</i></p>
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-  <a href="https://github.com/RohitMunnuru9">
-    <img src="https://github-readme-stats.vercel.app/api?username=RohitMunnuru9&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;title_color=23d18b&amp;text_color=9f9f9f&amp;icon_color=00bfff" width="49%" alt="Rohit's GitHub statistics" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitMunnuru9&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;title_color=00bfff&amp;text_color=9f9f9f" width="49%" alt="Languages across Rohit's public repositories" />
-  </a>
-
-</div>
-
-## 🤝 Let's Connect
-
-I'm interested in open-source communities, project collaborations, and learning together.
 
 <p align="center">
-  <a href="https://github.com/RohitMunnuru9"><img src="https://img.shields.io/badge/Find_Me_on_GitHub-RohitMunnuru9-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Find RohitMunnuru9 on GitHub" /></a>
+  <b>I build software people can trust:</b> privacy-first AI agents, verifiable systems, and products that keep a human in the loop.
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/📍_Hyderabad,_India-0d1117?style=for-the-badge" alt="Based in Hyderabad, India"/>
+  <a href="https://github.com/oppia/oppia/pulls?q=author%3ARohitMunnuru9"><img src="https://img.shields.io/badge/Oppia-Collaborator-00bfff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Oppia collaborator"/></a>
+  <a href="https://github.com/RohitMunnuru9/DOGFOODHACK"><img src="https://img.shields.io/badge/🏆_DogFood_2026-Top_25%25-FFD700?style=for-the-badge&labelColor=0d1117" alt="Top 25% at DogFood 2026"/></a>
+  <img src="https://img.shields.io/badge/🎯_Goal-GSoC_2027-23d18b?style=for-the-badge&labelColor=0d1117" alt="Goal: GSoC 2027"/>
+</p>
+
+<p align="center">
+  <a href="#-about-me">About</a> •
+  <a href="#-highlights">Highlights</a> •
+  <a href="#-featured-projects">Projects</a> •
+  <a href="#-open-source">Open source</a> •
+  <a href="#-tech-stack">Tech stack</a> •
+  <a href="#-lets-connect">Connect</a>
+</p>
+
+<br/>
+
+## 👋 About me
+
+```ts
+const rohit = {
+  location:  "Hyderabad, India",
+  role:      "Full-stack developer · Open-source contributor",
+  building:  ["privacy-first AI agents", "verifiable systems", "real-world products"],
+  community: "Collaborator @ Oppia: free learning for everyone",
+  stack:     ["TypeScript", "React", "Next.js", "Python", "FastAPI", "Postgres"],
+  nextGoal:  "Google Summer of Code 2027",
+  motto:     "Build. Learn. Contribute.",
+};
+```
+
+- 🛡️ I care about **safety by design**: my projects redact private data on-device, refuse invented answers, and enforce rules in the database instead of the UI.
+- 🌍 I contribute to **[Oppia](https://github.com/oppia/oppia)**, a free online learning platform, mostly on its Angular frontend.
+- 🚀 I like shipping complete things: from the schema and the API all the way to a polished UI and a `docker compose up`.
+- 🤝 Open to collaborating on open-source projects, hackathons and anything that makes software more trustworthy.
+
+## ✨ Highlights
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00bfff,100:0f9b0f&amp;height=120&amp;section=footer" width="100%" alt="Green and blue wave footer" />
+<table>
+  <tr>
+    <td align="center" width="25%"><h3>🏆 Top 25%</h3><sub><b>DogFood 2026</b><br/>rank 33 of 194</sub></td>
+    <td align="center" width="25%"><h3>🌍 Oppia</h3><sub><b>Collaborator</b><br/>3 merged PRs in oppia/oppia</sub></td>
+    <td align="center" width="25%"><h3>🚀 5</h3><sub><b>full-stack products</b><br/>shipped end to end</sub></td>
+    <td align="center" width="25%"><h3>🎯 2027</h3><sub><b>Google Summer of Code</b><br/>next goal</sub></td>
+  </tr>
+</table>
 </div>
 
+## 🚀 Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/RohitMunnuru9/stellarextension"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:302B63,100:7C3AED&height=90&text=Stellar&fontSize=34&fontColor=ffffff&fontAlignY=55" width="100%" alt="Stellar"/></a>
+      <p><b>Privacy-first visual browser agent for Chrome.</b> Private data is detected and redacted on-device before Gemini sees a single frame, and a local gate validates every action. Optional on-device FastVLM on WebGPU.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/Manifest_V3-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Manifest V3"/>
+        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini"/>
+        <img src="https://img.shields.io/badge/WebGPU-005CED?style=flat-square" alt="WebGPU"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/RohitMunnuru9/Axiomora"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B3D91,100:FF9933&height=90&text=Axiomora&fontSize=34&fontColor=ffffff&fontAlignY=55" width="100%" alt="Axiomora"/></a>
+      <p><b>Finds the right Indian Standards for any public tender.</b> Hybrid, multilingual search over 2,914 BIS standards, deterministic certification checks, and an LLM briefing that's thrown out if it cites a standard the search didn't return.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+        <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/RohitMunnuru9/DOGFOODHACK"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:F09819,50:FF512F,100:DD2476&height=90&text=DOGFOOD%202026&fontSize=34&fontColor=ffffff&fontAlignY=55" width="100%" alt="DOGFOOD 2026"/></a>
+      <p><b>🏆 Top 25% at DogFood 2026 (33 / 194).</b> A self-hosted hackathon portal: teams, deadline-enforced submissions, weighted rubrics, judge-normalized scoring, and HMAC-signed certificates, on a zero-dependency Python API.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js 16"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/RohitMunnuru9/mridul"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:4A2029,55:A8546A,100:C9A961&height=90&text=Mridul%20by%20MR&fontSize=34&fontColor=ffffff&fontAlignY=55" width="100%" alt="Mridul by MR"/></a>
+      <p><b>Full-stack saree e-commerce where the database is the bouncer.</b> Storefront and back office on Supabase Postgres with row-level security on every table and server-verified CCAvenue payments.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19"/>
+        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
+        <img src="https://img.shields.io/badge/Tailwind_4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS 4"/>
+        <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/RohitMunnuru9/ASAFE"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:C2185B,100:7B1FA2&height=90&text=SafeVoice&fontSize=34&fontColor=ffffff&fontAlignY=55" width="100%" alt="SafeVoice"/></a>
+      <p><b>Women's safety app with voice triggers.</b> SOS alerts and live GPS tracking notify trusted contacts instantly, with a <a href="https://rohitmunnuru9.github.io/ASAFE/">live web monitoring dashboard</a>.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/>
+        <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" alt="Firebase"/>
+      </p>
+    </td>
+    <td width="50%" valign="middle" align="center">
+      <a href="https://github.com/RohitMunnuru9?tab=repositories"><img src="https://img.shields.io/badge/Explore_all_repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/></a>
+      <br/><br/>
+      <sub>DevOps labs, CI/CD pipelines, Java and Python experiments, and more.</sub>
+    </td>
+  </tr>
+</table>
+
+## 🌍 Open source
+
+<p>
+  <a href="https://github.com/oppia/oppia"><img src="https://img.shields.io/badge/oppia%2Foppia-Collaborator-00bfff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="oppia/oppia collaborator"/></a>
+</p>
+
+I contribute to **[Oppia](https://github.com/oppia/oppia)**, a free, open-source learning platform used by learners around the world, mostly on its Angular frontend and tests.
+
+| | Pull request | What it does |
+| :---: | :--- | :--- |
+| ✅ | [#27697](https://github.com/oppia/oppia/pull/27697) | Shows consolidated validation warnings in the skill editor |
+| ✅ | [#27704](https://github.com/oppia/oppia/pull/27704) | Enables automatic learner-carousel rotation on the donate page |
+| ✅ | [#27708](https://github.com/oppia/oppia/pull/27708) | Filters translation providers by the selected language |
+| 🔄 | [#27874](https://github.com/oppia/oppia/pull/27874) | Keeps the mobile side navigation open on resize |
+| 🔄 | [#28221](https://github.com/oppia/oppia/pull/28221) | Adds accessible names to the hint and solution buttons |
+
+<sub>✅ merged · 🔄 in review · <a href="https://github.com/oppia/oppia/pulls?q=author%3ARohitMunnuru9">see all my Oppia PRs →</a></sub>
+
+## 🧰 Tech stack
+
+<p align="center"><b>Languages</b><br/><br/><img src="https://skillicons.dev/icons?i=java,py,js,ts,html,css&theme=dark" alt="Java, Python, JavaScript, TypeScript, HTML, CSS"/></p>
+
+<p align="center"><b>Frameworks</b><br/><br/><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,angular,tailwind,fastapi&theme=dark" alt="React, Next.js, Node.js, Express, Angular, Tailwind CSS, FastAPI"/></p>
+
+<p align="center"><b>Data</b><br/><br/><img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite,firebase,supabase&theme=dark" alt="MongoDB, PostgreSQL, SQLite, Firebase, Supabase"/></p>
+
+<p align="center"><b>DevOps &amp; tools</b><br/><br/><img src="https://skillicons.dev/icons?i=docker,jenkins,git,github,githubactions,vercel,cloudflare,linux&theme=dark" alt="Docker, Jenkins, Git, GitHub, GitHub Actions, Vercel, Cloudflare, Linux"/></p>
+
+## 🤝 Let's connect
+
+<p align="center">
+  I'm always up for open-source collaborations, hackathons and conversations about building trustworthy software.
+</p>
+
+<p align="center">
+  <a href="https://github.com/RohitMunnuru9"><img src="https://img.shields.io/badge/GitHub-RohitMunnuru9-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: RohitMunnuru9"/></a>
+  <a href="https://github.com/oppia/oppia/pulls?q=author%3ARohitMunnuru9"><img src="https://img.shields.io/badge/Oppia-My_PRs-00bfff?style=for-the-badge&logo=github&logoColor=white" alt="My Oppia pull requests"/></a>
+</p>
+
+<p align="center"><a href="#top">⬆ Back to top</a></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,50:00a8a8,100:0f9b0f&height=130&section=footer" width="100%" alt=""/>
+</p>
