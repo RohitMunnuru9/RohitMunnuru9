@@ -85,7 +85,7 @@ Hey, I'm **Rohit Munnuru**! I enjoy turning ideas into useful software and learn
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
 | **[Stellar](https://github.com/RohitMunnuru9/stellarextension)** | A visual browser agent for Chrome with on-device privacy controls, sensitive-data redaction, and local action validation for AI-assisted browsing. | JavaScript · Chrome Extensions (Manifest V3) · Gemini · Transformers.js · WebGPU |
-| **[ManakSetu AI](https://github.com/RohitMunnuru9/manaksetu)** | Helps reviewers find applicable Indian Standards for public procurement, with traceable evidence and human review. | Next.js · TypeScript · FastAPI · PostgreSQL |
+| **[Axiomora](https://github.com/RohitMunnuru9/Axiomora)** | Helps reviewers find applicable Indian Standards for public procurement, with traceable evidence and human review. | Next.js · TypeScript · FastAPI · PostgreSQL |
 | **[DOGFOOD 2026](https://github.com/RohitMunnuru9/DOGFOODHACK)** | A self-hosted hackathon portal for team formation, submissions, judging, and publishing results. | Next.js · Python · SQLite · Docker |
 | **[SafeVoice / ASAFE](https://github.com/RohitMunnuru9/ASAFE)** | A safety app with voice triggers, SOS alerts, GPS tracking, and a web monitoring dashboard. | React Native · Firebase |
 
