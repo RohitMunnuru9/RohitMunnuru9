@@ -1,168 +1,112 @@
 <a id="top"></a>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f9b0f,50:00a8a8,100:00bfff&height=260&section=header&text=Rohit%20Munnuru&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20developer%20%C2%B7%20Open-source%20contributor%20%40%20Oppia&descAlignY=60&descSize=20" width="100%" alt="Rohit Munnuru: full-stack developer and open-source contributor at Oppia"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,55:1e1b4b,100:0e7490&height=200&text=Rohit%20Munnuru&fontSize=60&fontColor=e2e8f0&animation=fadeIn&fontAlignY=42&desc=Full-stack%20developer%20%C2%B7%20Open-source%20contributor&descAlignY=66&descSize=18" width="100%" alt="Rohit Munnuru: full-stack developer and open-source contributor"/>
 </p>
 
 <p align="center">
-  <b>I build software people can trust:</b> privacy-first AI agents, verifiable systems, and products that keep a human in the loop.
+  <img src="https://img.shields.io/badge/Hyderabad,_India-020617?style=for-the-badge&logo=googlemaps&logoColor=22d3ee" alt="Hyderabad, India"/>
+  <a href="https://github.com/oppia/oppia"><img src="https://img.shields.io/badge/Oppia-Collaborator-4f46e5?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" alt="Oppia Collaborator"/></a>
+  <a href="https://github.com/RohitMunnuru9/DOGFOODHACK"><img src="https://img.shields.io/badge/DogFood_2026-Top_25%25-0e7490?style=for-the-badge&logo=trophy&logoColor=white&labelColor=020617" alt="DogFood 2026: Top 25%"/></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/📍_Hyderabad,_India-0d1117?style=for-the-badge" alt="Based in Hyderabad, India"/>
-  <a href="https://github.com/oppia/oppia/pulls?q=author%3ARohitMunnuru9"><img src="https://img.shields.io/badge/Oppia-Collaborator-00bfff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Oppia collaborator"/></a>
-  <a href="https://github.com/RohitMunnuru9/DOGFOODHACK"><img src="https://img.shields.io/badge/🏆_DogFood_2026-Top_25%25-FFD700?style=for-the-badge&labelColor=0d1117" alt="Top 25% at DogFood 2026"/></a>
-  <img src="https://img.shields.io/badge/🎯_Goal-GSoC_2027-23d18b?style=for-the-badge&labelColor=0d1117" alt="Goal: GSoC 2027"/>
-</p>
+<h3 align="center">I build software people can trust.</h3>
 
 <p align="center">
-  <a href="#-about-me">About</a> •
-  <a href="#-highlights">Highlights</a> •
-  <a href="#-featured-projects">Projects</a> •
-  <a href="#-open-source">Open source</a> •
-  <a href="#-tech-stack">Tech stack</a> •
-  <a href="#-lets-connect">Connect</a>
+  Privacy-first AI agents, verifiable systems and full-stack products, built end to end<br/>and designed so the safe path is the only path.
 </p>
 
 <br/>
 
-## 👋 About me
+## 👨‍💻 About me
 
-```ts
-const rohit = {
-  location:  "Hyderabad, India",
-  role:      "Full-stack developer · Open-source contributor",
-  building:  ["privacy-first AI agents", "verifiable systems", "real-world products"],
-  community: "Collaborator @ Oppia: free learning for everyone",
-  stack:     ["TypeScript", "React", "Next.js", "Python", "FastAPI", "Postgres"],
-  nextGoal:  "Google Summer of Code 2027",
-  motto:     "Build. Learn. Contribute.",
-};
-```
+I'm a full-stack developer from Hyderabad who enjoys taking an idea all the way from the database schema to a polished, tested interface.
 
-- 🛡️ I care about **safety by design**: my projects redact private data on-device, refuse invented answers, and enforce rules in the database instead of the UI.
-- 🌍 I contribute to **[Oppia](https://github.com/oppia/oppia)**, a free online learning platform, mostly on its Angular frontend.
-- 🚀 I like shipping complete things: from the schema and the API all the way to a polished UI and a `docker compose up`.
-- 🤝 Open to collaborating on open-source projects, hackathons and anything that makes software more trustworthy.
+- 🔭 **Building** privacy-first AI tools and systems whose results you can verify
+- 🌍 **Contributing** to [Oppia](https://github.com/oppia/oppia) as a Collaborator, mostly on its Angular frontend
+- 🏆 **Placed** in the top 25% at the DogFood 2026 hackathon
+- 🧠 **Care about** safety by design, accessibility and well-tested code
+- 💬 **Ask me about** Next.js, FastAPI, Postgres and browser extensions
 
-## ✨ Highlights
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="25%"><h3>🏆 Top 25%</h3><sub><b>DogFood 2026</b><br/>rank 33 of 194</sub></td>
-    <td align="center" width="25%"><h3>🌍 Oppia</h3><sub><b>Collaborator</b><br/>3 merged PRs in oppia/oppia</sub></td>
-    <td align="center" width="25%"><h3>🚀 5</h3><sub><b>full-stack products</b><br/>shipped end to end</sub></td>
-    <td align="center" width="25%"><h3>🎯 2027</h3><sub><b>Google Summer of Code</b><br/>next goal</sub></td>
-  </tr>
-</table>
-</div>
-
-## 🚀 Featured projects
+## 🛠️ Featured projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/RohitMunnuru9/stellarextension"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:302B63,100:7C3AED&height=90&text=Stellar&fontSize=34&fontColor=ffffff&fontAlignY=55" width="100%" alt="Stellar"/></a>
-      <p><b>Privacy-first visual browser agent for Chrome.</b> Private data is detected and redacted on-device before Gemini sees a single frame, and a local gate validates every action. Optional on-device FastVLM on WebGPU.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-        <img src="https://img.shields.io/badge/Manifest_V3-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Manifest V3"/>
-        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini"/>
-        <img src="https://img.shields.io/badge/WebGPU-005CED?style=flat-square" alt="WebGPU"/>
-      </p>
+      <h3><a href="https://github.com/RohitMunnuru9/stellarextension">🌌 Stellar</a></h3>
+      <sub><b>PRIVACY-FIRST BROWSER AGENT</b></sub>
+      <p>An AI agent that browses for you without leaking your data. Private details are redacted on your device before the model sees anything, and every action passes a local safety check.</p>
+      <p><code>JavaScript</code> <code>Chrome MV3</code> <code>Gemini</code> <code>WebGPU</code></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/RohitMunnuru9/Axiomora"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B3D91,100:FF9933&height=90&text=Axiomora&fontSize=34&fontColor=ffffff&fontAlignY=55" width="100%" alt="Axiomora"/></a>
-      <p><b>Finds the right Indian Standards for any public tender.</b> Hybrid, multilingual search over 2,914 BIS standards, deterministic certification checks, and an LLM briefing that's thrown out if it cites a standard the search didn't return.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-        <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/>
-      </p>
+      <h3><a href="https://github.com/RohitMunnuru9/Axiomora">📐 Axiomora</a></h3>
+      <sub><b>STANDARDS FOR PUBLIC TENDERS</b></sub>
+      <p>Recommends the right Indian Standards for government tenders. It uses multilingual hybrid search and rule-based certification checks, and its AI briefing can never cite a standard the search didn't find.</p>
+      <p><code>Next.js</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>Ollama</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/RohitMunnuru9/DOGFOODHACK"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:F09819,50:FF512F,100:DD2476&height=90&text=DOGFOOD%202026&fontSize=34&fontColor=ffffff&fontAlignY=55" width="100%" alt="DOGFOOD 2026"/></a>
-      <p><b>🏆 Top 25% at DogFood 2026 (33 / 194).</b> A self-hosted hackathon portal: teams, deadline-enforced submissions, weighted rubrics, judge-normalized scoring, and HMAC-signed certificates, on a zero-dependency Python API.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js 16"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-      </p>
+      <h3><a href="https://github.com/RohitMunnuru9/DOGFOODHACK">🏆 DOGFOOD 2026</a></h3>
+      <sub><b>HACKATHON PORTAL · TOP 25%</b></sub>
+      <p>A self-hosted hackathon platform covering teams, submissions, fair judge-normalized scoring and cryptographically signed certificates, built on a zero-dependency Python API.</p>
+      <p><code>Next.js</code> <code>Python</code> <code>SQLite</code> <code>Docker</code></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/RohitMunnuru9/mridul"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:4A2029,55:A8546A,100:C9A961&height=90&text=Mridul%20by%20MR&fontSize=34&fontColor=ffffff&fontAlignY=55" width="100%" alt="Mridul by MR"/></a>
-      <p><b>Full-stack saree e-commerce where the database is the bouncer.</b> Storefront and back office on Supabase Postgres with row-level security on every table and server-verified CCAvenue payments.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19"/>
-        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
-        <img src="https://img.shields.io/badge/Tailwind_4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS 4"/>
-        <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
-      </p>
+      <h3><a href="https://github.com/RohitMunnuru9/mridul">🥻 Mridul by MR</a></h3>
+      <sub><b>E-COMMERCE FOR A SAREE LABEL</b></sub>
+      <p>A storefront and back office where the database enforces every rule. Prices, stock and payments are verified on the server and never trusted from the browser.</p>
+      <p><code>React</code> <code>Supabase</code> <code>Tailwind</code> <code>Cloudflare</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/RohitMunnuru9/ASAFE"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:C2185B,100:7B1FA2&height=90&text=SafeVoice&fontSize=34&fontColor=ffffff&fontAlignY=55" width="100%" alt="SafeVoice"/></a>
-      <p><b>Women's safety app with voice triggers.</b> SOS alerts and live GPS tracking notify trusted contacts instantly, with a <a href="https://rohitmunnuru9.github.io/ASAFE/">live web monitoring dashboard</a>.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/>
-        <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" alt="Firebase"/>
-      </p>
+      <h3><a href="https://github.com/RohitMunnuru9/ASAFE">🛡️ SafeVoice</a></h3>
+      <sub><b>WOMEN'S SAFETY APP</b></sub>
+      <p>Voice-triggered SOS alerts and live GPS tracking for trusted contacts, with a <a href="https://rohitmunnuru9.github.io/ASAFE/">live web dashboard</a>.</p>
+      <p><code>React Native</code> <code>Firebase</code></p>
     </td>
     <td width="50%" valign="middle" align="center">
-      <a href="https://github.com/RohitMunnuru9?tab=repositories"><img src="https://img.shields.io/badge/Explore_all_repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/></a>
-      <br/><br/>
-      <sub>DevOps labs, CI/CD pipelines, Java and Python experiments, and more.</sub>
+      <a href="https://github.com/RohitMunnuru9?tab=repositories"><img src="https://img.shields.io/badge/See_all_repositories-020617?style=for-the-badge&logo=github&logoColor=22d3ee" alt="See all repositories"/></a>
+      <br/>
+      <sub>DevOps labs, CI/CD pipelines, Java and Python experiments</sub>
     </td>
   </tr>
 </table>
 
 ## 🌍 Open source
 
+I'm a **Collaborator at [Oppia](https://github.com/oppia/oppia)**, a free, open-source platform that makes quality education accessible to learners everywhere.
+
+My work there covers the **skill editor**, the **donate page**, **translation tooling**, **mobile navigation** and **accessibility**: mostly Angular components and the tests that keep them honest.
+
 <p>
-  <a href="https://github.com/oppia/oppia"><img src="https://img.shields.io/badge/oppia%2Foppia-Collaborator-00bfff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="oppia/oppia collaborator"/></a>
+  <a href="https://github.com/oppia/oppia/pulls?q=author%3ARohitMunnuru9"><img src="https://img.shields.io/badge/View_my_Oppia_contributions-4f46e5?style=for-the-badge&logo=github&logoColor=white" alt="View my Oppia contributions"/></a>
 </p>
 
-I contribute to **[Oppia](https://github.com/oppia/oppia)**, a free, open-source learning platform used by learners around the world, mostly on its Angular frontend and tests.
+## ⚡ Tech stack
 
-| | Pull request | What it does |
-| :---: | :--- | :--- |
-| ✅ | [#27697](https://github.com/oppia/oppia/pull/27697) | Shows consolidated validation warnings in the skill editor |
-| ✅ | [#27704](https://github.com/oppia/oppia/pull/27704) | Enables automatic learner-carousel rotation on the donate page |
-| ✅ | [#27708](https://github.com/oppia/oppia/pull/27708) | Filters translation providers by the selected language |
-| 🔄 | [#27874](https://github.com/oppia/oppia/pull/27874) | Keeps the mobile side navigation open on resize |
-| 🔄 | [#28221](https://github.com/oppia/oppia/pull/28221) | Adds accessible names to the hint and solution buttons |
-
-<sub>✅ merged · 🔄 in review · <a href="https://github.com/oppia/oppia/pulls?q=author%3ARohitMunnuru9">see all my Oppia PRs →</a></sub>
-
-## 🧰 Tech stack
-
-<p align="center"><b>Languages</b><br/><br/><img src="https://skillicons.dev/icons?i=java,py,js,ts,html,css&theme=dark" alt="Java, Python, JavaScript, TypeScript, HTML, CSS"/></p>
-
-<p align="center"><b>Frameworks</b><br/><br/><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,angular,tailwind,fastapi&theme=dark" alt="React, Next.js, Node.js, Express, Angular, Tailwind CSS, FastAPI"/></p>
-
-<p align="center"><b>Data</b><br/><br/><img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite,firebase,supabase&theme=dark" alt="MongoDB, PostgreSQL, SQLite, Firebase, Supabase"/></p>
-
-<p align="center"><b>DevOps &amp; tools</b><br/><br/><img src="https://skillicons.dev/icons?i=docker,jenkins,git,github,githubactions,vercel,cloudflare,linux&theme=dark" alt="Docker, Jenkins, Git, GitHub, GitHub Actions, Vercel, Cloudflare, Linux"/></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,java,html,css,react,nextjs,angular&theme=dark" alt="TypeScript, JavaScript, Python, Java, HTML, CSS, React, Next.js, Angular"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,tailwind,postgres,mongodb,sqlite,supabase,firebase&theme=dark" alt="Node.js, Express, FastAPI, Tailwind CSS, PostgreSQL, MongoDB, SQLite, Supabase, Firebase"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,git,github,vercel,cloudflare,linux&theme=dark" alt="Docker, Jenkins, GitHub Actions, Git, GitHub, Vercel, Cloudflare, Linux"/>
+</p>
 
 ## 🤝 Let's connect
 
 <p align="center">
-  I'm always up for open-source collaborations, hackathons and conversations about building trustworthy software.
+  Always happy to talk about open source, hackathons, or building software people can rely on.
 </p>
 
 <p align="center">
-  <a href="https://github.com/RohitMunnuru9"><img src="https://img.shields.io/badge/GitHub-RohitMunnuru9-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: RohitMunnuru9"/></a>
-  <a href="https://github.com/oppia/oppia/pulls?q=author%3ARohitMunnuru9"><img src="https://img.shields.io/badge/Oppia-My_PRs-00bfff?style=for-the-badge&logo=github&logoColor=white" alt="My Oppia pull requests"/></a>
+  <a href="https://github.com/RohitMunnuru9"><img src="https://img.shields.io/badge/GitHub-RohitMunnuru9-020617?style=for-the-badge&logo=github&logoColor=22d3ee" alt="GitHub: RohitMunnuru9"/></a>
+  <a href="https://github.com/oppia/oppia"><img src="https://img.shields.io/badge/Oppia-Collaborator-4f46e5?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" alt="Oppia Collaborator"/></a>
 </p>
 
-<p align="center"><a href="#top">⬆ Back to top</a></p>
+<p align="center"><a href="#top">↑ Back to top</a></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,50:00a8a8,100:0f9b0f&height=130&section=footer" width="100%" alt=""/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e7490,45:1e1b4b,100:020617&height=6" width="100%" alt=""/>
 </p>
