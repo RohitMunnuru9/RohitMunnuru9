@@ -6,8 +6,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Hyderabad,_India-020617?style=for-the-badge&logo=googlemaps&logoColor=22d3ee" alt="Hyderabad, India"/>
-  <a href="https://github.com/oppia/oppia"><img src="https://img.shields.io/badge/Oppia-Collaborator-4f46e5?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" alt="Oppia Collaborator"/></a>
-  <a href="https://github.com/RohitMunnuru9/DOGFOODHACK"><img src="https://img.shields.io/badge/DogFood_2026-Top_25%25-0e7490?style=for-the-badge&logo=trophy&logoColor=white&labelColor=020617" alt="DogFood 2026: Top 25%"/></a>
+  <img src="https://img.shields.io/badge/Open_Source-Contributor-4f46e5?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" alt="Open-source contributor"/>
+  <img src="https://img.shields.io/badge/🏆_Hackathons-National_Winner-0e7490?style=for-the-badge&labelColor=020617" alt="Winner of multiple national hackathons"/>
 </p>
 
 <h3 align="center">I build software people can trust.</h3>
@@ -23,8 +23,8 @@
 I'm a full-stack developer from Hyderabad who enjoys taking an idea all the way from the database schema to a polished, tested interface.
 
 - 🔭 **Building** privacy-first AI tools and systems whose results you can verify
-- 🌍 **Contributing** to [Oppia](https://github.com/oppia/oppia) as a Collaborator, mostly on its Angular frontend
-- 🏆 **Placed** in the top 25% at the DogFood 2026 hackathon
+- 🌍 **Contributing** to open source, mostly on Angular frontends and their tests
+- 🏆 **Winner** of multiple national hackathons
 - 🧠 **Care about** safety by design, accessibility and well-tested code
 - 💬 **Ask me about** Next.js, FastAPI, Postgres and browser extensions
 
@@ -47,8 +47,8 @@ I'm a full-stack developer from Hyderabad who enjoys taking an idea all the way 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/RohitMunnuru9/DOGFOODHACK">🏆 DOGFOOD 2026</a></h3>
-      <sub><b>HACKATHON PORTAL · TOP 25%</b></sub>
+      <h3><a href="https://github.com/RohitMunnuru9/DOGFOODHACK">🏁 DOGFOOD 2026</a></h3>
+      <sub><b>HACKATHON PORTAL</b></sub>
       <p>A self-hosted hackathon platform covering teams, submissions, fair judge-normalized scoring and cryptographically signed certificates, built on a zero-dependency Python API.</p>
       <p><code>Next.js</code> <code>Python</code> <code>SQLite</code> <code>Docker</code></p>
     </td>
@@ -76,12 +76,10 @@ I'm a full-stack developer from Hyderabad who enjoys taking an idea all the way 
 
 ## 🌍 Open source
 
-I'm a **Collaborator at [Oppia](https://github.com/oppia/oppia)**, a free, open-source platform that makes quality education accessible to learners everywhere.
-
-My work there covers the **skill editor**, the **donate page**, **translation tooling**, **mobile navigation** and **accessibility**: mostly Angular components and the tests that keep them honest.
+I'm an active **open-source contributor**, working mostly on Angular frontends for education software. My work covers **editor tooling**, **donation pages**, **translation workflows**, **mobile navigation** and **accessibility**, along with the tests that keep them honest.
 
 <p>
-  <a href="https://github.com/oppia/oppia/pulls?q=author%3ARohitMunnuru9"><img src="https://img.shields.io/badge/View_my_Oppia_contributions-4f46e5?style=for-the-badge&logo=github&logoColor=white" alt="View my Oppia contributions"/></a>
+  <a href="https://github.com/oppia/oppia/pulls?q=author%3ARohitMunnuru9"><img src="https://img.shields.io/badge/View_my_contributions-4f46e5?style=for-the-badge&logo=github&logoColor=white" alt="View my open-source contributions"/></a>
 </p>
 
 ## ⚡ Tech stack
@@ -102,7 +100,6 @@ My work there covers the **skill editor**, the **donate page**, **translation to
 
 <p align="center">
   <a href="https://github.com/RohitMunnuru9"><img src="https://img.shields.io/badge/GitHub-RohitMunnuru9-020617?style=for-the-badge&logo=github&logoColor=22d3ee" alt="GitHub: RohitMunnuru9"/></a>
-  <a href="https://github.com/oppia/oppia"><img src="https://img.shields.io/badge/Oppia-Collaborator-4f46e5?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" alt="Oppia Collaborator"/></a>
 </p>
 
 <p align="center"><a href="#top">↑ Back to top</a></p>
